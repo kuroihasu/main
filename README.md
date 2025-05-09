@@ -1,12 +1,15 @@
 # ¡Hola! Soy Eduardo 👋
 
 ¡Bienvenidos a mi perfil! 
+
 Soy desarrollador con 10 años en el rubro y me encanta todo lo relacionado con la tecnología.
 
 ## 🌱 Sobre mí
 
-🌍 Nacionalidad: Chilena
-📚 Estudié Ingenieria Informatica y actualmente hago un Diplomado de Gestión y Planificación de proyectos informaticos
+🌍 Nacionalidad: Chilena.
+
+📚 Estudié Ingenieria Informatica y actualmente hago un Diplomado de Gestión y Planificación de proyectos informaticos.
+
 ⚡ Me gusta el diseño y desarrollo de aplicaciones web, ya sea a nivel de Front-end o Back-end.
 
 
